@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaemi</h1>
-<h3 align="center">Hi there! I'm an IT student passionate about building user-friendly applications, solving complex problems, and continuously learning new technologies. My journey in tech combines academic growth, hands-on projects, and real-world applications.</h3>
+<h3 align="left">Hi there! I'm an IT student passionate about building user-friendly applications, solving complex problems, and continuously learning new technologies. My journey in tech combines academic growth, hands-on projects, and real-world applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxmashi&label=Profile%20views&color=0e75b6&style=flat" alt="kxmashi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kxmashi" alt="kxmashi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kxmashi_" target="blank"><img src="https://img.shields.io/twitter/follow/kxmashi_?logo=twitter&style=for-the-badge" alt="kxmashi_" /></a> </p>
 
 ---
 
@@ -53,6 +49,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kxmashi&show_icons=true&locale=en&layout=compact" alt="kxmashi" /></p>
 
+---
+
+<hr style="border:1px solid black;">
+<h3 align="left">Trophies:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxmashi&show_icons=true&locale=en" alt="kxmashi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxmashi&" alt="kxmashi" /></p>
+
+
+<hr style="border:1px solid black;">
+<h3 align="left">Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kxmashi" alt="kxmashi" /></a> </p>
