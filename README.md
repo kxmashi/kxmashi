@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaemi</h1>
 <h3 align="left">Hi there! I'm an IT student passionate about building user-friendly applications, solving complex problems, and continuously learning new technologies. My journey in tech combines academic growth, hands-on projects, and real-world applications.</h3>
+
 ---
 
 <h2 align="left">🌐 About Me</h2>
