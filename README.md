@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaemi</h1>
 <h3 align="left">Hi there! I'm an IT student passionate about building user-friendly applications, solving complex problems, and continuously learning new technologies. My journey in tech combines academic growth, hands-on projects, and real-world applications.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kxmashi&label=Profile%20views&color=0e75b6&style=flat" alt="kxmashi" /> </p>
-
 ---
 
-<h2 align="center">🌐 About Me</h2>
+<h2 align="left">🌐 About Me</h2>
 <ul>
   <li>🎓 IT Student, currently learning React.js and Firebase.</li>
   <li>🚀 Always eager to learn new technologies and improve my skills.</li>
