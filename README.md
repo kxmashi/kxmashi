@@ -5,13 +5,12 @@
 
 ---
 
-<h2>🌟 About Me</h2>
+<h2 align="center">🌐 About Me</h2>
 <ul>
-  <li>🎓 IT Student | University of Cebu</li>
-  <li>🎨 Designer | Proficient in Photoshop, Figma, and Illustrator.</li>
-  <li>💻 Developer | Experienced with C#, PHP, Python, AngularJS, HTML, and CSS .</li>
-  <li>🔍 Problem-Solver | Keen on tackling CRUD operations, database management, and full-stack application development.</li>
-  <li>📘 Currently Learning | React.js and Firebase.</li>
+  <li>🎓 IT Student, currently learning React.js and Firebase.</li>
+  <li>🚀 Always eager to learn new technologies and improve my skills.</li>
+  <li>🌈 Passionate about creating functional and visually appealing applications.</li>
+  <li>💻 Currently working on a <a href="https://github.com/kxmashi/chat-app" target="_blank">Chat App</a> project.</li>
 </ul>
 
 ---
