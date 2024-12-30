@@ -54,7 +54,7 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kxmashi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
