@@ -7,10 +7,11 @@
 
 <h2>🌟 About Me</h2>
 <ul>
-  <li>🎓 IT Student | Average Grade: 1.5 (Equivalent to 90%)</li>
+  <li>🎓 IT Student | University of Cebu</li>
   <li>🎨 Designer | Proficient in Photoshop, Figma, Illustrator, and video editing.</li>
   <li>💻 Developer | Experienced with HTML, CSS, JavaScript, PHP, Angular, and Firebase.</li>
   <li>🔍 Problem-Solver | Keen on tackling CRUD operations, database management, and full-stack application development.</li>
+  <li>📘 Currently Learning | React.js and Firebase.</li>
 </ul>
 
 ---
@@ -53,9 +54,10 @@
 
 <hr style="border:1px solid black;">
 <h3 align="left">Trophies:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxmashi&show_icons=true&locale=en" alt="kxmashi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxmashi&show_icons=true&locale=en" alt="kxmashi" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxmashi&" alt="kxmashi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxmashi&" alt="kxmashi" /></p>
+<p></p>
 
 
 <hr style="border:1px solid black;">
