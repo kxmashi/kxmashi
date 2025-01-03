@@ -5,7 +5,7 @@
 
 <h2 align="left">🌐 About Me</h2>
 <ul>
-  <li>🎓 IT Student | Learning React.js and Firebase (<a href="https://github.com/kxmashi/chat-app" target="_blank">Chat App</a>)</li>
+  <li>🎓 IT Student | Currently learning React.js and Firebase (<a href="https://github.com/kxmashi/chat-app" target="_blank">Chat App</a>)</li>
   <li>🚀 Always eager to learn new technologies and improve my skills.</li>
   <li>💻 Committed to mastering full-stack development and addressing real-world challenges</li>
   <li>🎨 Skilled in design tools like Photoshop, Figma, and Illustrator</li>
